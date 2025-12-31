@@ -1,0 +1,17 @@
+diff --git a/data/posts.csv b/data/posts.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..339d956a8f3aaa8ec043681915e95e3d2cab9cd1
+--- /dev/null
++++ b/data/posts.csv
+@@ -0,0 +1,11 @@
++id,platform,author,timestamp,language,text,url,narrative_tag,engagement
++p001,Twitter,@northwatch,2024-02-05T08:12:00Z,en,"Local clinic shutdown blamed on foreign aid diversion.",https://example.com/posts/1,aid_diversion,245
++p002,Facebook,Community Watch,2024-02-05T10:45:00Z,en,"Share if you saw this: aid trucks bypassing our town.",https://example.com/posts/2,aid_diversion,517
++p003,Telegram,InfoStream,2024-02-05T11:05:00Z,ru,"Склады пусты из-за перенаправления помощи за границу.",https://example.com/posts/3,aid_diversion,1220
++p004,NewsSite,WorldBrief,2024-02-05T12:00:00Z,en,"Officials deny claims that aid was rerouted.",https://example.com/articles/1,aid_diversion,91
++p005,Twitter,@healthdesk,2024-02-05T14:40:00Z,en,"Clinic closures predate aid shipment delays.",https://example.com/posts/4,aid_diversion,332
++p006,YouTube,DailyReport,2024-02-05T16:15:00Z,en,"Video alleges convoy turned away at border.",https://example.com/video/1,aid_diversion,2210
++p007,Facebook,Community Watch,2024-02-06T09:30:00Z,en,"Updates: officials respond to convoy rumor.",https://example.com/posts/5,aid_diversion,290
++p008,Twitter,@northwatch,2024-02-06T12:10:00Z,en,"New docs suggest local logistics failure, not diversion.",https://example.com/posts/6,aid_diversion,184
++p009,Telegram,InfoStream,2024-02-06T13:00:00Z,ru,"Опровержение: колонна задержалась из-за ремонта моста.",https://example.com/posts/7,aid_diversion,730
++p010,NewsSite,WorldBrief,2024-02-06T15:20:00Z,en,"Timeline of convoy delays released by transport ministry.",https://example.com/articles/2,aid_diversion,105
