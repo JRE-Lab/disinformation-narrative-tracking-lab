@@ -1,0 +1,10 @@
+diff --git a/data/fact_checks.csv b/data/fact_checks.csv
+new file mode 100644
+index 0000000000000000000000000000000000000000..483ebcc4791d906d147be79c56dcd74adda09f9d
+--- /dev/null
++++ b/data/fact_checks.csv
+@@ -0,0 +1,4 @@
++id,organization,published_at,language,claim,verdict,url,notes
++fc001,FactCheckNow,2024-02-06T08:00:00Z,en,"Aid trucks bypassed the town and delivered supplies abroad.",False,https://example.com/factcheck/1,"Logs show convoy delayed by bridge repairs and re-routed locally."
++fc002,TruthLens,2024-02-06T12:30:00Z,en,"Clinic closures began after aid shipments were diverted.",False,https://example.com/factcheck/2,"Clinic closure dates predate shipment delays by 6 months."
++fc003,VerifyEast,2024-02-06T18:00:00Z,ru,"Помощь перенаправили из города за границу.",False,https://example.com/factcheck/3,"Маршрут изменили из-за погодных условий."
